@@ -2,15 +2,19 @@
 
 
 ## Camunda Platform | Kubernetes  ☸️
+Camunda provides a scalable process automation and orchestration platform. It is available self-managed or on-demand as-a-service. Camunda brings powerful execution engines for BPMN processes and DMN decisions, paired with tools for collaborative modeling, operations, and analytics.
 
 
-
-🎯  Key Features
+🎯  The core of Camunda Platform
 ```
-✅ Launch EC2 Instances
-✅ Install K3S Binary ( Kubernetes )
-✅ Prepare Cluster Configuration
-✅ Deploy Helm Charts 
+✅ Console - Configure and deploy clusters in SaaS with Console.
+✅ Zeebe - The cloud-native workflow and decision engine.
+✅ Operate - Manage, monitor, and troubleshoot your processes through Operate.
+✅ Optimize - Improve your processes by identifying constraints in your system with Optimize.
+✅ Tasklist - Use Tasklist to complete tasks which need human input.
+✅ Identity - Identity is the component within the Camunda 8 stack responsible for authentication and authorization.
+✅ Connectors - Integrate external systems with reusable, pre-defined building blocks
+✅ Web Modeler - Collaborate and model processes, deploy and start new instances all without leaving Camunda Platform
 ```
 
 🚀 
